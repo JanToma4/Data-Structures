@@ -1,6 +1,5 @@
 /**
  * Jan Toma
- * CS310 Section 2
  */
 package data_structures;
 
